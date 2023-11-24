@@ -1,4 +1,4 @@
-#Stock Helper
+# Stock Helper
 
 ## install:
 pip install numpy
